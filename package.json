@@ -1,7 +1,7 @@
 {
   "name": "BPMN-X",
-  "version": "1.0",
-  "description": "Extension tool of BPMN used to measure the resiliency of a process based on a maturity model formalization",
+  "version": "0.0.0",
+  "description": "An example of creating custom rendering for bpmn-js",
   "scripts": {
     "all": "run-s lint build",
     "build": "webpack --mode production",
